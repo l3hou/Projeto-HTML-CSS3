@@ -1,0 +1,50 @@
+#topo {
+		
+		width: 900px;
+
+
+		}
+
+		body {
+			font:  16px Arial, Helvetica, sans-serif;
+			background-image: url(imagens/fundo.png);
+		}
+
+		#maps {
+			background: #D3D3BE;
+			padding: 18px;
+
+		}
+
+		#sobre {
+			background: white;
+			padding: 10px;
+			
+		}
+
+		h1 {
+			color: #5E610B;
+			font-size: 1.2em;
+		}
+
+		#rodape {
+
+		}
+
+		a {
+
+			color: #00008B;
+			text-decoration: none;
+			font-weight: bold;
+			padding: 15px;
+		}
+
+		.centralizar {
+
+			text-align: center;
+		}
+
+		.img-campanha {
+			border: 10px inset #c3c3ae;
+		}
+
